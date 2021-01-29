@@ -21,11 +21,7 @@ class Main {
     System.out.println("your age is " + age);
   }
 
-//getAge method calculates getAge
-static int getAge(int birthYear, int currentYear)
- {
-int age = currentYear - birthYear;
-return age;
+
  }
 
  //greeting method returns a personalized greeting
